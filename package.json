@@ -1,0 +1,19 @@
+{
+  "name": "node_viz",
+  "version": "1.0.0",
+  "description": "CMSC396H Vizualization of Vulnerabilities",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VulnerabilityViz/VizSite.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VulnerabilityViz/VizSite/issues"
+  },
+  "homepage": "https://github.com/VulnerabilityViz/VizSite#readme"
+}
